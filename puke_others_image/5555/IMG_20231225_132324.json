@@ -1,0 +1,37 @@
+{
+  "version": "2.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "8s",
+      "points": [
+        [
+          549.6633625030518,
+          627.9172086715698
+        ],
+        [
+          784.2668628692627,
+          627.9172086715698
+        ],
+        [
+          784.2668628692627,
+          1096.0016822814941
+        ],
+        [
+          549.6633625030518,
+          1096.0016822814941
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "IMG_20231225_132324.jpg",
+  "imageData": null,
+  "imageHeight": 2200,
+  "imageWidth": 2200
+}

@@ -1,0 +1,145 @@
+{
+  "version": "2.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          616.0,
+          233.0
+        ],
+        [
+          653.0,
+          233.0
+        ],
+        [
+          653.0,
+          336.0
+        ],
+        [
+          616.0,
+          336.0
+        ]
+      ],
+      "group_id": 0,
+      "description": "0",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          333.0,
+          1104.0
+        ],
+        [
+          612.0,
+          1104.0
+        ],
+        [
+          612.0,
+          1327.0
+        ],
+        [
+          333.0,
+          1327.0
+        ]
+      ],
+      "group_id": 1,
+      "description": "MADE IN CHINA",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          1615.0,
+          1202.0
+        ],
+        [
+          1740.0,
+          1202.0
+        ],
+        [
+          1740.0,
+          1309.0
+        ],
+        [
+          1615.0,
+          1309.0
+        ]
+      ],
+      "group_id": 2,
+      "description": "5",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          1331.0,
+          1271.0
+        ],
+        [
+          1498.0,
+          1271.0
+        ],
+        [
+          1498.0,
+          1475.0
+        ],
+        [
+          1331.0,
+          1475.0
+        ]
+      ],
+      "group_id": 3,
+      "description": "5.",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          996.0,
+          1388.0
+        ],
+        [
+          1100.0,
+          1388.0
+        ],
+        [
+          1100.0,
+          1579.0
+        ],
+        [
+          996.0,
+          1579.0
+        ]
+      ],
+      "group_id": 4,
+      "description": "01",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "IMG_20231226_094456.jpg",
+  "imageData": null,
+  "imageHeight": 2000,
+  "imageWidth": 2000
+}

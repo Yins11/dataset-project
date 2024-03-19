@@ -1,0 +1,199 @@
+{
+  "version": "2.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          771.0,
+          235.0
+        ],
+        [
+          725.0,
+          235.0
+        ],
+        [
+          725.0,
+          665.0
+        ],
+        [
+          771.0,
+          665.0
+        ]
+      ],
+      "group_id": 0,
+      "description": "JOKER",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          769.0,
+          575.0
+        ],
+        [
+          808.0,
+          575.0
+        ],
+        [
+          808.0,
+          635.0
+        ],
+        [
+          769.0,
+          635.0
+        ]
+      ],
+      "group_id": 1,
+      "description": "★",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          1170.0,
+          1024.0
+        ],
+        [
+          1118.0,
+          1024.0
+        ],
+        [
+          1118.0,
+          1491.0
+        ],
+        [
+          1170.0,
+          1491.0
+        ]
+      ],
+      "group_id": 2,
+      "description": "JOKER",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          1279.0,
+          1098.0
+        ],
+        [
+          1312.0,
+          1098.0
+        ],
+        [
+          1312.0,
+          1125.0
+        ],
+        [
+          1279.0,
+          1125.0
+        ]
+      ],
+      "group_id": 3,
+      "description": "HO",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          631.0,
+          1207.0
+        ],
+        [
+          946.0,
+          1207.0
+        ],
+        [
+          946.0,
+          1368.0
+        ],
+        [
+          631.0,
+          1368.0
+        ]
+      ],
+      "group_id": 4,
+      "description": "MADE IN CHINA",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          1694.0,
+          1263.0
+        ],
+        [
+          1792.0,
+          1263.0
+        ],
+        [
+          1792.0,
+          1439.0
+        ],
+        [
+          1694.0,
+          1439.0
+        ]
+      ],
+      "group_id": 5,
+      "description": "X",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          1441.0,
+          1295.0
+        ],
+        [
+          1525.0,
+          1295.0
+        ],
+        [
+          1525.0,
+          1453.0
+        ],
+        [
+          1441.0,
+          1453.0
+        ]
+      ],
+      "group_id": 6,
+      "description": "X",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "IMG_20231226_094823.jpg",
+  "imageData": null,
+  "imageHeight": 2000,
+  "imageWidth": 2000
+}

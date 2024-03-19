@@ -1,0 +1,37 @@
+{
+  "version": "2.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Ad",
+      "points": [
+        [
+          130.6114673614502,
+          1093.0958366394043
+        ],
+        [
+          373.7588357925415,
+          1093.0958366394043
+        ],
+        [
+          373.7588357925415,
+          1597.4822425842285
+        ],
+        [
+          130.6114673614502,
+          1597.4822425842285
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "IMG_20231225_132306.jpg",
+  "imageData": null,
+  "imageHeight": 2200,
+  "imageWidth": 2200
+}

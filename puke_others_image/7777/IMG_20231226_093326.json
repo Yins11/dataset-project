@@ -1,0 +1,91 @@
+{
+  "version": "2.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          420.0,
+          857.0
+        ],
+        [
+          663.0,
+          857.0
+        ],
+        [
+          663.0,
+          1012.0
+        ],
+        [
+          420.0,
+          1012.0
+        ]
+      ],
+      "group_id": 0,
+      "description": "A",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          714.0,
+          1298.0
+        ],
+        [
+          1209.0,
+          1298.0
+        ],
+        [
+          1209.0,
+          1681.0
+        ],
+        [
+          714.0,
+          1681.0
+        ]
+      ],
+      "group_id": 1,
+      "description": "吊十",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          1123.0,
+          1568.0
+        ],
+        [
+          1294.0,
+          1568.0
+        ],
+        [
+          1294.0,
+          1714.0
+        ],
+        [
+          1123.0,
+          1714.0
+        ]
+      ],
+      "group_id": 2,
+      "description": "#",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "IMG_20231226_093326.jpg",
+  "imageData": null,
+  "imageHeight": 2000,
+  "imageWidth": 2000
+}

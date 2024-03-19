@@ -1,0 +1,37 @@
+{
+  "version": "2.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          1508.0,
+          1577.0
+        ],
+        [
+          1606.0,
+          1577.0
+        ],
+        [
+          1606.0,
+          1740.0
+        ],
+        [
+          1508.0,
+          1740.0
+        ]
+      ],
+      "group_id": 0,
+      "description": "A",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "IMG_20231226_094420.jpg",
+  "imageData": null,
+  "imageHeight": 2000,
+  "imageWidth": 2000
+}

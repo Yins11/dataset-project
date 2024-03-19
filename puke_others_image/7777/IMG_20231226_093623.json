@@ -1,0 +1,118 @@
+{
+  "version": "2.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          1144.0,
+          564.0
+        ],
+        [
+          1266.0,
+          564.0
+        ],
+        [
+          1266.0,
+          642.0
+        ],
+        [
+          1144.0,
+          642.0
+        ]
+      ],
+      "group_id": 0,
+      "description": "RDS",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          413.0,
+          651.0
+        ],
+        [
+          506.0,
+          651.0
+        ],
+        [
+          506.0,
+          777.0
+        ],
+        [
+          413.0,
+          777.0
+        ]
+      ],
+      "group_id": 1,
+      "description": "6",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          1402.0,
+          1102.0
+        ],
+        [
+          1623.0,
+          1102.0
+        ],
+        [
+          1623.0,
+          1516.0
+        ],
+        [
+          1402.0,
+          1516.0
+        ]
+      ],
+      "group_id": 2,
+      "description": "JOKER",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          1202.0,
+          1511.0
+        ],
+        [
+          1413.0,
+          1511.0
+        ],
+        [
+          1413.0,
+          1506.0
+        ],
+        [
+          1202.0,
+          1506.0
+        ]
+      ],
+      "group_id": 3,
+      "description": "IN CHINA",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "IMG_20231226_093623.jpg",
+  "imageData": null,
+  "imageHeight": 2000,
+  "imageWidth": 2000
+}

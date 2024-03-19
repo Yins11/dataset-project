@@ -1,0 +1,118 @@
+{
+  "version": "2.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Maxwang",
+      "points": [
+        [
+          102.88368105888367,
+          1728.3151626586914
+        ],
+        [
+          411.6960668563843,
+          1728.3151626586914
+        ],
+        [
+          411.6960668563843,
+          2104.073944091797
+        ],
+        [
+          102.88368105888367,
+          2104.073944091797
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Maxwang",
+      "points": [
+        [
+          942.3248291015625,
+          1860.9280967712402
+        ],
+        [
+          1271.7424011230469,
+          1860.9280967712402
+        ],
+        [
+          1271.7424011230469,
+          2192.577610015869
+        ],
+        [
+          942.3248291015625,
+          2192.577610015869
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Xiaowang",
+      "points": [
+        [
+          800.8738231658936,
+          1363.6582851409912
+        ],
+        [
+          1239.446496963501,
+          1363.6582851409912
+        ],
+        [
+          1239.446496963501,
+          1596.8128490447998
+        ],
+        [
+          800.8738231658936,
+          1596.8128490447998
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Xiaowang",
+      "points": [
+        [
+          935.2974033355713,
+          1855.096263885498
+        ],
+        [
+          1271.3659000396729,
+          1855.096263885498
+        ],
+        [
+          1271.3659000396729,
+          2196.473331451416
+        ],
+        [
+          935.2974033355713,
+          2196.473331451416
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "IMG_20231225_133204.jpg",
+  "imageData": null,
+  "imageHeight": 2200,
+  "imageWidth": 2200
+}

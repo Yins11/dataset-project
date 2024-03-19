@@ -1,0 +1,226 @@
+{
+  "version": "2.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          1248.0,
+          858.0
+        ],
+        [
+          1312.0,
+          858.0
+        ],
+        [
+          1312.0,
+          915.0
+        ],
+        [
+          1248.0,
+          915.0
+        ]
+      ],
+      "group_id": 0,
+      "description": "SS",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          1385.0,
+          944.0
+        ],
+        [
+          1417.0,
+          944.0
+        ],
+        [
+          1417.0,
+          975.0
+        ],
+        [
+          1385.0,
+          975.0
+        ]
+      ],
+      "group_id": 1,
+      "description": "口",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          944.0,
+          962.0
+        ],
+        [
+          960.0,
+          962.0
+        ],
+        [
+          960.0,
+          985.0
+        ],
+        [
+          944.0,
+          985.0
+        ]
+      ],
+      "group_id": 2,
+      "description": "O",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          1329.0,
+          1000.0
+        ],
+        [
+          1385.0,
+          1000.0
+        ],
+        [
+          1385.0,
+          1004.0
+        ],
+        [
+          1329.0,
+          1004.0
+        ]
+      ],
+      "group_id": 3,
+      "description": "C",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          1131.0,
+          1014.0
+        ],
+        [
+          1177.0,
+          1014.0
+        ],
+        [
+          1177.0,
+          1030.0
+        ],
+        [
+          1131.0,
+          1030.0
+        ]
+      ],
+      "group_id": 4,
+      "description": "公",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          869.0,
+          1148.0
+        ],
+        [
+          906.0,
+          1148.0
+        ],
+        [
+          906.0,
+          1190.0
+        ],
+        [
+          869.0,
+          1190.0
+        ]
+      ],
+      "group_id": 5,
+      "description": "X",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          679.0,
+          1165.0
+        ],
+        [
+          731.0,
+          1165.0
+        ],
+        [
+          731.0,
+          1210.0
+        ],
+        [
+          679.0,
+          1210.0
+        ]
+      ],
+      "group_id": 6,
+      "description": "SS",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          1848.0,
+          1827.0
+        ],
+        [
+          1950.0,
+          1827.0
+        ],
+        [
+          1950.0,
+          1973.0
+        ],
+        [
+          1848.0,
+          1973.0
+        ]
+      ],
+      "group_id": 7,
+      "description": "9",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "IMG_20231226_095211.jpg",
+  "imageData": null,
+  "imageHeight": 2000,
+  "imageWidth": 2000
+}

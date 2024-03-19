@@ -1,0 +1,118 @@
+{
+  "version": "2.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          725.0,
+          319.0
+        ],
+        [
+          800.0,
+          319.0
+        ],
+        [
+          800.0,
+          423.0
+        ],
+        [
+          725.0,
+          423.0
+        ]
+      ],
+      "group_id": 0,
+      "description": "9",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          1191.0,
+          1350.0
+        ],
+        [
+          1159.0,
+          1350.0
+        ],
+        [
+          1159.0,
+          1827.0
+        ],
+        [
+          1191.0,
+          1827.0
+        ]
+      ],
+      "group_id": 1,
+      "description": "JOKER",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          661.0,
+          1546.0
+        ],
+        [
+          975.0,
+          1546.0
+        ],
+        [
+          975.0,
+          1712.0
+        ],
+        [
+          661.0,
+          1712.0
+        ]
+      ],
+      "group_id": 2,
+      "description": "MADE IN CHINA",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          1410.0,
+          1760.0
+        ],
+        [
+          1517.0,
+          1760.0
+        ],
+        [
+          1517.0,
+          1933.0
+        ],
+        [
+          1410.0,
+          1933.0
+        ]
+      ],
+      "group_id": 3,
+      "description": "4",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "IMG_20231226_095156.jpg",
+  "imageData": null,
+  "imageHeight": 2000,
+  "imageWidth": 2000
+}

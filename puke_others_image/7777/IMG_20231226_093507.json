@@ -1,0 +1,64 @@
+{
+  "version": "2.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          700.0,
+          479.0
+        ],
+        [
+          815.0,
+          479.0
+        ],
+        [
+          815.0,
+          625.0
+        ],
+        [
+          700.0,
+          625.0
+        ]
+      ],
+      "group_id": 0,
+      "description": "4",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          1406.0,
+          1129.0
+        ],
+        [
+          1604.0,
+          1129.0
+        ],
+        [
+          1604.0,
+          1344.0
+        ],
+        [
+          1406.0,
+          1344.0
+        ]
+      ],
+      "group_id": 1,
+      "description": "吊",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "IMG_20231226_093507.jpg",
+  "imageData": null,
+  "imageHeight": 2000,
+  "imageWidth": 2000
+}

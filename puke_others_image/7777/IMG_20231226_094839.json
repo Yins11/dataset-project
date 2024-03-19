@@ -1,0 +1,118 @@
+{
+  "version": "2.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          792.0,
+          779.0
+        ],
+        [
+          833.0,
+          779.0
+        ],
+        [
+          833.0,
+          840.0
+        ],
+        [
+          792.0,
+          840.0
+        ]
+      ],
+      "group_id": 0,
+      "description": "回",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          1243.0,
+          1275.0
+        ],
+        [
+          1307.0,
+          1275.0
+        ],
+        [
+          1307.0,
+          1373.0
+        ],
+        [
+          1243.0,
+          1373.0
+        ]
+      ],
+      "group_id": 1,
+      "description": "吊",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          1470.0,
+          1340.0
+        ],
+        [
+          1582.0,
+          1340.0
+        ],
+        [
+          1582.0,
+          1520.0
+        ],
+        [
+          1470.0,
+          1520.0
+        ]
+      ],
+      "group_id": 2,
+      "description": "2",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          1202.0,
+          1359.0
+        ],
+        [
+          1294.0,
+          1359.0
+        ],
+        [
+          1294.0,
+          1556.0
+        ],
+        [
+          1202.0,
+          1556.0
+        ]
+      ],
+      "group_id": 3,
+      "description": "2",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "IMG_20231226_094839.jpg",
+  "imageData": null,
+  "imageHeight": 2000,
+  "imageWidth": 2000
+}

@@ -1,0 +1,64 @@
+{
+  "version": "2.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Xiaowang",
+      "points": [
+        [
+          484.67984199523926,
+          632.5787830352783
+        ],
+        [
+          1053.72802734375,
+          632.5787830352783
+        ],
+        [
+          1053.72802734375,
+          1201.5611934661865
+        ],
+        [
+          484.67984199523926,
+          1201.5611934661865
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "5s",
+      "points": [
+        [
+          794.7548151016235,
+          885.5232048034668
+        ],
+        [
+          1194.223985671997,
+          885.5232048034668
+        ],
+        [
+          1194.223985671997,
+          1212.1106719970703
+        ],
+        [
+          794.7548151016235,
+          1212.1106719970703
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "IMG_20231225_132728.jpg",
+  "imageData": null,
+  "imageHeight": 2200,
+  "imageWidth": 2200
+}

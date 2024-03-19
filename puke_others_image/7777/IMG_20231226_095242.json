@@ -1,0 +1,172 @@
+{
+  "version": "2.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          1041.0,
+          334.0
+        ],
+        [
+          1161.0,
+          334.0
+        ],
+        [
+          1161.0,
+          508.0
+        ],
+        [
+          1041.0,
+          508.0
+        ]
+      ],
+      "group_id": 0,
+      "description": "10",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          1227.0,
+          704.0
+        ],
+        [
+          1462.0,
+          704.0
+        ],
+        [
+          1462.0,
+          890.0
+        ],
+        [
+          1227.0,
+          890.0
+        ]
+      ],
+      "group_id": 1,
+      "description": "%",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          1468.0,
+          1225.0
+        ],
+        [
+          1472.0,
+          1225.0
+        ],
+        [
+          1472.0,
+          1696.0
+        ],
+        [
+          1468.0,
+          1696.0
+        ]
+      ],
+      "group_id": 2,
+      "description": "JOKER",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          821.0,
+          1267.0
+        ],
+        [
+          1002.0,
+          1267.0
+        ],
+        [
+          1002.0,
+          1452.0
+        ],
+        [
+          821.0,
+          1452.0
+        ]
+      ],
+      "group_id": 3,
+      "description": "子",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          1402.0,
+          1271.0
+        ],
+        [
+          1440.0,
+          1271.0
+        ],
+        [
+          1440.0,
+          1315.0
+        ],
+        [
+          1402.0,
+          1315.0
+        ]
+      ],
+      "group_id": 4,
+      "description": "★",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          1052.0,
+          1505.0
+        ],
+        [
+          1377.0,
+          1505.0
+        ],
+        [
+          1377.0,
+          1581.0
+        ],
+        [
+          1052.0,
+          1581.0
+        ]
+      ],
+      "group_id": 5,
+      "description": "PLAYING",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "IMG_20231226_095242.jpg",
+  "imageData": null,
+  "imageHeight": 2000,
+  "imageWidth": 2000
+}

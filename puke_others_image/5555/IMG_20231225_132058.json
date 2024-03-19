@@ -1,0 +1,37 @@
+{
+  "version": "2.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Kc",
+      "points": [
+        [
+          810.2592849731445,
+          682.2994804382324
+        ],
+        [
+          1195.0943756103516,
+          682.2994804382324
+        ],
+        [
+          1195.0943756103516,
+          1091.5864753723145
+        ],
+        [
+          810.2592849731445,
+          1091.5864753723145
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "IMG_20231225_132058.jpg",
+  "imageData": null,
+  "imageHeight": 2200,
+  "imageWidth": 2200
+}

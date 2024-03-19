@@ -1,0 +1,118 @@
+{
+  "version": "2.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          796.0,
+          479.0
+        ],
+        [
+          850.0,
+          479.0
+        ],
+        [
+          850.0,
+          584.0
+        ],
+        [
+          796.0,
+          584.0
+        ]
+      ],
+      "group_id": 0,
+      "description": "9",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          733.0,
+          1200.0
+        ],
+        [
+          1065.0,
+          1200.0
+        ],
+        [
+          1065.0,
+          1579.0
+        ],
+        [
+          733.0,
+          1579.0
+        ]
+      ],
+      "group_id": 1,
+      "description": "1",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          1717.0,
+          1375.0
+        ],
+        [
+          1967.0,
+          1375.0
+        ],
+        [
+          1967.0,
+          1679.0
+        ],
+        [
+          1717.0,
+          1679.0
+        ]
+      ],
+      "group_id": 2,
+      "description": "OP",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          1473.0,
+          1625.0
+        ],
+        [
+          1556.0,
+          1625.0
+        ],
+        [
+          1556.0,
+          1792.0
+        ],
+        [
+          1473.0,
+          1792.0
+        ]
+      ],
+      "group_id": 3,
+      "description": "0",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": null,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "IMG_20231226_094425.jpg",
+  "imageData": null,
+  "imageHeight": 2000,
+  "imageWidth": 2000
+}

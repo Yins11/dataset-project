@@ -1,0 +1,64 @@
+{
+  "version": "2.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Maxwang",
+      "points": [
+        [
+          301.20800018310547,
+          764.2186260223389
+        ],
+        [
+          509.58629608154297,
+          764.2186260223389
+        ],
+        [
+          509.58629608154297,
+          1455.4689502716064
+        ],
+        [
+          301.20800018310547,
+          1455.4689502716064
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "4s",
+      "points": [
+        [
+          771.6311550140381,
+          814.1618251800537
+        ],
+        [
+          1003.480920791626,
+          814.1618251800537
+        ],
+        [
+          1003.480920791626,
+          1246.1859607696533
+        ],
+        [
+          771.6311550140381,
+          1246.1859607696533
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "IMG_20231225_132750.jpg",
+  "imageData": null,
+  "imageHeight": 2200,
+  "imageWidth": 2200
+}
